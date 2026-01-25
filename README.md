@@ -150,8 +150,9 @@ ________________________________________________________________________________
 # Компиляция и запуск в Google Colab:
 
  Сохраняем программу в файл
-%%writefile assignment3.cu
+%%writefile assignment44.cpp
 [код программы]
+
  Компилируем
 !mpic++ assignment44.cpp -o assignment44
 
